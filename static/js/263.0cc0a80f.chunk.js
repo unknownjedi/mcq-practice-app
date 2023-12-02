@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmcq_practice_app=self.webpackChunkmcq_practice_app||[]).push([[263],{263:e=>{e.exports=JSON.parse('{"name":"Test Practice 2","mcq":[{"question":"What is 2 + 2?","options":["3","4","5","6"],"answer":"4"},{"question":"What is the capital of France?","options":["Paris","London","Rome","Berlin"],"answer":"Paris"}]}')}}]);
